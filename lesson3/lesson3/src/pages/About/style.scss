@@ -1,0 +1,24 @@
+.card{
+    box-shadow: 20px;
+    background: rgb(161, 160, 160);
+    transition: all 0.4s ease-in-out;
+    width: 800px;
+    height: 400px;
+}
+.btn_add{
+    background: rgb(10, 110, 217);
+}
+.btn_danger{
+    background: rgb(217, 10, 34);
+}.btn_warning{
+    background: rgb(234, 209, 20);
+}
+.btn_succes{
+    background: rgb(5, 186, 38);
+}
+button{
+    margin: 10px;
+}
+.swipe{
+    transform: translateY(-220%);
+}
